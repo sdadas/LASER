@@ -4,3 +4,6 @@ numpy
 Cython
 torch
 transliterate
+fairseq==0.12.1
+tabulate
+pandas
